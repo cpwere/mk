@@ -10,10 +10,10 @@ This outlines how you build and run the Triangle Popup dialog box.
 
 Run:
 
-    javac <PATH-TO-JAVA-FILE>/<JAVA-FILE-NAME>
+    javac PATH-TO-JAVA-FILE/JAVA-FILE-NAME
 
 ## Running the Examples
 
 
-java <PACKAGE PATH>.<CLASS-NAME>
+java PACKAGE-PATH.CLASS-NAME
 
