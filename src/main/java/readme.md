@@ -8,12 +8,17 @@ This outlines how you build and run the Triangle Popup dialog box.
 
 ## Building
 
-Run:
+Compile: First compile the java code using this format below:
 
     javac PATH-TO-JAVA-FILE/JAVA-FILE-NAME
 
-## Running the Examples
+    javac com/project/TestUI.java
 
+## Running the java application
 
-java PACKAGE-PATH.CLASS-NAME
+Run: Then run 'java className' to run the application
+
+    java PACKAGE-PATH.CLASS-NAME
+
+    java com.project.TestUI
 
