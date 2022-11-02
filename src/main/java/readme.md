@@ -22,3 +22,21 @@ Run: Then run 'java className' to run the application
 
     java com.project.TestUI
 
+
+---
+
+## Create a JAR file and run the compiled jar 
+
+# Create the JAR file using the below command
+This will create a file named 'TriangleApplication.jar' in the current directory
+
+
+    jar cvfm TriangleApplication.jar manifest.txt *
+
+# Run the created JAR using the below command
+
+
+    java -jar TriangleApplication.jar
+
+
+

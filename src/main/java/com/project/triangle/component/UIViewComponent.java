@@ -86,7 +86,7 @@ public class UIViewComponent {
 
     Object value = optP.getValue();
 
-    System.out.println("Selected value: " + value);
+    System.out.println("To EXIT press >> CTRL + C ");
 
   }
 
